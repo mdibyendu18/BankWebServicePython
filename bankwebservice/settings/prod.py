@@ -1,9 +1,12 @@
 from .base import *
+import dj_database_url
+db_from_env = dj_database_url.config(conn_max_age=500)
 
 DEBUG = False
 ALLOWED_HOSTS = [
 	'bankservicepython.herokuapp.com'
 ]
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
