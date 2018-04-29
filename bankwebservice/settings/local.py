@@ -8,9 +8,9 @@ INSTALLED_APPS += (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'bank_detail',
-        'USER': 'btfyle',
-        'PASSWORD': 'btfyle',
+        'NAME': 'bdetail',
+        'USER': 'postgres',
+        'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '5432',
     }
