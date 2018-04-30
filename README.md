@@ -8,7 +8,7 @@ http://bankservicepython.herokuapp.com/branch/{yourbrachifsccode}
 ### Example 
 (http://bankservicepython.herokuapp.com/branch/ALLA0212106)
 
-## Get list of Bank Branches for given bank name and city
+## Get list of Bank Branches for a given bank name and city
 To get the get the list of bank branches  for a given bank name and city  type the following url in the browser address bar
 http://bankservicepython.herokuapp.com/bank/{yourbankname}/city/{yourcityname}
 ### Example 
