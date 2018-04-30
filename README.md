@@ -20,8 +20,8 @@ Ex. -
 
 <b>Built with</b>
 - [Python](https://www.python.org/)
-- [Django Rerst Framework](http://www.django-rest-framework.org/)
-- [Postgres](https://www.postgresql.org/)
+- [Django Rest Framework](http://www.django-rest-framework.org/)
+- [Postgres SQL](https://www.postgresql.org/)
 
 
  ### Heroku App Link
