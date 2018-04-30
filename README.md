@@ -1,6 +1,6 @@
 ## BankWebServicePython
 This is webservice project developed in Python and Django Rest Framework.For a given  bank name and a city you can get the details of all
-the branches of the bank in the city .For a given bank branch ifsc code you can get the branch get details
+the branches of the bank in the city .For a given bank branch ifsc code you can get the branch details
 
 ## Get Branch Details
 To get the get the bank branch detail for a given ifsc code type the following url in the browser address bar
